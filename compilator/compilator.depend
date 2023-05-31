@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1685379966 source:c:\users\admin\documents\compilator\compilator\src\automatom.cpp
+	"Automatom.h"
+	<vector>
+
+1685558695 c:\users\admin\documents\compilator\compilator\include\automatom.h
+	<algorithm>
+	<iostream>
+	<vector>
+	<map>
+
+1685558653 source:c:\users\admin\documents\compilator\compilator\main.cpp
+	<iostream>
+	"Automatom.h"
+
